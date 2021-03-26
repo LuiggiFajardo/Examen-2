@@ -1,0 +1,140 @@
+ @import url ('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+body{
+	
+}
+header{
+	background-color: #fff;
+}
+#hero-slides h1{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 80px;
+	font-weight: bolder;
+}
+#hero-slides h3{
+	font-family: 'Catamaran', sans-serif;
+}
+#hero-slides .btn-light{
+	background-color: #FFFFFF;
+	color: var(--fondo-footer);
+	border-radius: 100px;
+	font-size: 15px;
+	font-weight: 200px;
+	padding: 10px 15px;
+	margin-top: 10px;
+	font-family: 'Catamaran', sans-serif;
+}
+#webconference{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.section h2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 35px;
+	font-weight:700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.section p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	font-weight:200;
+	color: var(--color-footer);
+	text-align: center;
+	margin-bottom: 80px;
+}
+#webconference h5{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 20px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#webconference p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+}
+#webconference .btn-light{
+	
+	margin-left:115px;
+	background-color: #FFFFFF;
+	font-weight:bold;
+	
+}
+#speakers{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+#speakers h5{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 20px;
+	font-weight:500px;
+	text-align: center;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#speakers p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	font-weight:500px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#speakers .btn-light{
+	
+	margin-left:50px;
+	background-color: #FFFFFF;
+	font-weight:bold;
+	
+}
+#horario{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	background-color: var(--fondo-footer);
+	color:#FFFFFF;
+	padding: 80px;
+	
+}
+#horario i{
+	font-size: 50px;
+	margin-bottom: 10px;
+
+}
+#horario h2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 25px;
+}
+#horario h6{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+}
+#horario p{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	color:#C0C0C0;
+	margin-bottom:50px; 
+}
+#Oursponsors img{
+	margin-bottom: 50px;
+	margin-top: 45px;
+	align-content: center;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
